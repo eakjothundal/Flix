@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/44451960/191183343-61ef280b-70d6-42dc-aa5c-9f46b73d7cc1.gif)
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had trouble removing the space between the collection view cells. Even with the minimumInterSpacing set to 0, a space remained and I couldn't figure out why. Also, at the top of the collection view, the word "Superhero" seems to hover over the middle poster until you scroll. Spent time troubleshooting that but no luck.
 
 
 ---
